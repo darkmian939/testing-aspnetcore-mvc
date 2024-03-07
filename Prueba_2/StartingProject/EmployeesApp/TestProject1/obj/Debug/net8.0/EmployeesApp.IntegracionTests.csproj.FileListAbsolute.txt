@@ -1,0 +1,6 @@
+C:\PD\Prueba_2\StartingProject\EmployeesApp\TestProject1\obj\Debug\net8.0\EmployeesApp.IntegracionTests.csproj.AssemblyReference.cache
+C:\PD\Prueba_2\StartingProject\EmployeesApp\TestProject1\obj\Debug\net8.0\EmployeesApp.IntegracionTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\PD\Prueba_2\StartingProject\EmployeesApp\TestProject1\obj\Debug\net8.0\EmployeesApp.IntegracionTests.AssemblyInfoInputs.cache
+C:\PD\Prueba_2\StartingProject\EmployeesApp\TestProject1\obj\Debug\net8.0\EmployeesApp.IntegracionTests.AssemblyInfo.cs
+C:\PD\Prueba_2\StartingProject\EmployeesApp\TestProject1\obj\Debug\net8.0\EmployeesApp.IntegracionTests.csproj.CoreCompileInputs.cache
+C:\PD\Prueba_2\StartingProject\EmployeesApp\TestProject1\obj\Debug\net8.0\EmployeesApp.IntegracionTests.sourcelink.json
